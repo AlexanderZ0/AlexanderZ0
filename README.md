@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](open.spotify.com/embed/track/2X485T9Z5Ly0xyaghN73ed?utm_source=generator)
+[![Spotify](open.spotify.com/embed/track/2X485T9Z5Ly0xyaghN73ed?utm_source=generator)
