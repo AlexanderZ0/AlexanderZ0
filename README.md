@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[![Spotify]
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]
