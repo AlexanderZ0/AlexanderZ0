@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://.app/api/spotify)]
+[![Spotify](https://https://open.spotify.com/intl-es/track/2X485T9Z5Ly0xyaghN73ed?si=1eb2db8356d24bbd.app/api/spotify)]
