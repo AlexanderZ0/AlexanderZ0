@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 <h2 align="left">Frontend</h2>
  <img width="200px"  src="https://skillicons.dev/icons?i=html,css,js,line=10"/>
 
- <h1 align="left">Frameworks</h1>
+ <h2 align="left">Frameworks</h2>
 <img width="200px"  src="https://skillicons.dev/icons?i=react,vue,line=10"/>
