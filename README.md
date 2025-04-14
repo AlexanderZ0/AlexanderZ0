@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 <img width="200px"  src="https://skillicons.dev/icons?i=react,vue,line=10"/>
 
 <h2 align="left">Backend</h2>
-<img width="200px"  src="https://skillicons.dev/icons?i=py,php,mysql,node.js,line=10"/>
+<img width="200px"  src="https://skillicons.dev/icons?i=py,php,mysql,line=10"/>
 
