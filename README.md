@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img width="200px"  src="https://skillicons.dev/icons?i=django,nodejs,spring,line=10"/>
 
 <h1 align="left">Tools</h1>
-<img width="300px"  src="https://skillicons.dev/icons?i=git,github,docker,anaconda,flask,gmail,ts,vscode,visualstudio,line=10"/>
+<img width="500px"  src="https://skillicons.dev/icons?i=git,github,docker,anaconda,flask,gmail,ts,vscode,visualstudio,line=10"/>
 
 <h1 align="left">OS</h1>
  <img width="200px"  src="https://skillicons.dev/icons?i=windows,linux,line=10"/>
