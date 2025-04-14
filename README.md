@@ -1,4 +1,4 @@
-Wave.gif	{gifs/wave}
+Wave.gif	
 
 <!-->
 **AlexanderZ0/AlexanderZ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
