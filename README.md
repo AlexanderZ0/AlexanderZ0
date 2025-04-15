@@ -5,7 +5,8 @@ welcome to my repository
 
 Here are some ideas to get you started:
 
-<h1 align="center">Lᴀɴɢᴜᴀɢᴇs </h1> 
+
+<h1 align="center">Languages,Tools and Tecnologíes</h1>
 <p align="center">
 <h1 align="left">Frontend</h1>
  <img width="200px"  src="https://skillicons.dev/icons?i=html,css,js,bootstrap,line=10"/>
