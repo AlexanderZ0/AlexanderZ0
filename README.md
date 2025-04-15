@@ -5,7 +5,7 @@ welcome to my repository
 
 Here are some ideas to get you started:
 
-<h1 align="center">Languages,Tools and Tecnologíes</h1>
-<p align="center">
-<img width="200px"  src="https://skillicons.dev/icons?i=html,css,js,py,react,angular,php,django,git,github,docker,anaconda,flask,gmail,ts,vscode,visualstudio,windows,linux,line=10"/>
+<h1 align="left">Languages,Tools,Os and Tecnologíes</h1>
+<p align="left">
+<img width="400px"  src="https://skillicons.dev/icons?i=html,css,js,py,react,angular,php,django,git,github,docker,anaconda,flask,gmail,ts,vscode,visualstudio,windows,linux,line=10"/>
 
