@@ -8,6 +8,9 @@ welcome to my repository
 <!-->
 **AlexanderZ0/AlexanderZ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+:musical_note: I'm currently listening:
+
+[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
 
 ------
 <h3 align="left">Languages and Tools:</h3>
