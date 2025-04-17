@@ -12,6 +12,8 @@ welcome to my repository
 
 [![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
 
+<img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
+
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
