@@ -8,7 +8,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sass,ts,vue,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sass,ts,vue,"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
