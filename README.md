@@ -4,7 +4,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,php,cpp,laravel,nodejs,flask,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,php,flask,"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
