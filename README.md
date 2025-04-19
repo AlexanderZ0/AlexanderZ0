@@ -1,16 +1,3 @@
-<h3 align="center">
-  
-  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-
-
-¡¡Hi/Hola!!
-welcome to my repository
-<!-->
-**AlexanderZ0/AlexanderZ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-:musical_note: I'm currently listening:
-
-[![My Spotify](https://spotify-currently-playing-track.vercel.app/api)](https://github.com/regchiu/spotify-currently-playing-track)
 
 ------
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +8,7 @@ welcome to my repository
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrapvue,vuetify,react,mui,sass,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sass,ts,vue,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
