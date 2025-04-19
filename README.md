@@ -4,7 +4,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,php,cplusplus,laravel,nodejs,flask,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,json,php,cplusplus,laravel,nodejs,flask,"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -28,7 +28,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,anaconda,sublime"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,anaconda,sublime,eclipse"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
