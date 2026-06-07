@@ -1,64 +1,90 @@
+<div align="center">
 
-------
-<!--h1 without bottom border-->
+# Hi there, I'm Alexander Zenteno 👋
+
+### Full Stack Developer · IT Engineering Student
+
+*Reynosa, Tamaulipas, México*
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlexanderZ0-181717?style=flat-square&logo=github)](https://github.com/AlexanderZ0)
+[![Email](https://img.shields.io/badge/Email-Zentenoz0k%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Zentenoz0k@gmail.com)
+
+</div>
+
+---
+
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
+    <summary><h2 style="display: inline-block">👨‍💻 About Me</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+Full Stack Developer con experiencia en desarrollo web, integración de APIs, cloud computing y ciberseguridad.<br>
+Actualmente cursando <strong>Ingeniería en Tecnologías de la Información</strong>, combinando formación académica con proyectos reales en entornos de producción.<br><br>
+Autodidacta por naturaleza — si no lo sé hacer hoy, lo aprendo mañana y lo despliego el viernes. 🚀
+</p>
+
+---
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🛠️ Technologies That I Know</h2></summary>
   </ul>
 </div>
 
 <!-- Frontend -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block"> Frontend</h3></summary>
+    <summary><h3 style="display: inline-block">🎨 Frontend</h3></summary>
   </ul>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap,=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,bootstrap&perline=14" />
   </a>
 </p>
 
 <!-- Backend -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block"> Backend</h3></summary>
+    <summary><h3 style="display: inline-block">⚙️ Backend</h3></summary>
   </ul>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,django,flask,dotnet,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,django,flask,dotnet&perline=14" />
   </a>
 </p>
 
-<!-- Frameworks & Runtimes -->
+<!-- Languages -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block"> Frameworks & Runtimes</h3></summary>
+    <summary><h3 style="display: inline-block">💻 Languages</h3></summary>
   </ul>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,anaconda&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,py,js&perline=14" />
   </a>
 </p>
 
-<!-- Bases de Datos -->
+<!-- Databases -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block"> Databases</h3></summary>
+    <summary><h3 style="display: inline-block">🗄️ Databases</h3></summary>
   </ul>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,=14" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver&perline=14" />
   </a>
 </p>
 
 <!-- Cloud & DevOps -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block"> Cloud & DevOps</h3></summary>
+    <summary><h3 style="display: inline-block">☁️ Cloud & DevOps</h3></summary>
   </ul>
 </div>
 <p align="center">
@@ -67,19 +93,71 @@
   </a>
 </p>
 
-<!-- Herramientas & Otros -->
+<!-- Tools & Others -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block"> Tools & Others</h3></summary>
+    <summary><h3 style="display: inline-block">🔧 Tools & Others</h3></summary>
   </ul>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,visualstudio,npm,windows,kali,raspberrypi,arduino,ai&per=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,vscode,visualstudio,npm,windows,kali,raspberrypi,arduino&perline=14" />
   </a>
 </p>
 
+---
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">💼 Experience</h2></summary>
+  </ul>
+</div>
 
+**🏢 Full Stack Developer — C&D Technologies** *(Sep. 2025 – May. 2026)*
+- Desarrollo web Full Stack y gestión de repositorios con Git en entornos colaborativos
+- Despliegue de soluciones conectadas a servicios cloud mediante **Microsoft Azure**
+- Integración de **APIs REST** y monitoreo de sistemas **IoT con Raspberry Pi**
+- Administración de bases de datos **SQL Server** e infraestructura tecnológica
 
+**🔌 API RESTful Developer — Freelance**
+- Diseño y desarrollo de API con **.NET Core 8**, SQL Server y autenticación **JWT**
+- Implementación del patrón Repositorio, caché y endpoints escalables listos para producción
 
+**🔐 Ciberseguridad y Hacking Ético — Laboratorio Controlado**
+- Análisis de vulnerabilidades en entornos web, redes y sistemas
+- Pentesting con **Kali Linux**, VMware y técnicas de postexplotación
+- Fundamentos de **machine learning aplicado a ciberseguridad**
+
+---
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🎓 Education</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+🎓 <strong>Ing. en Tecnologías de la Información</strong> — Instituto Técnico en Ciencias Computacionales<br>
+📜 <strong>TKT (Teaching Knowledge Test)</strong> — Cambridge Institute, Reynosa
+</p>
+
+---
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">📊 GitHub Stats</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderZ0&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderZ0&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+<div align="center">
+
+*"Build things that work. Then build things that matter."*
+
+</div>
